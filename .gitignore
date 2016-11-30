@@ -69,3 +69,13 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 *.xlsx
+
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
